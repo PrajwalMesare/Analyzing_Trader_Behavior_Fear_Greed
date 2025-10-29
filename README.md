@@ -16,7 +16,7 @@ This project analyzes how trader behavior changes during different market sentim
 <hr>
 
 <h2>Approach</h2>
-<h3>Data Processing (Phases 1–3)</h3>
+<h3>Data Processing </h3>
 <ul>
   <li>Cleaned raw datasets and removed duplicates / nulls</li>
   <li>Converted timestamps to <code>datetime</code> and extracted dates</li>
@@ -24,7 +24,7 @@ This project analyzes how trader behavior changes during different market sentim
   <li>Merged trader and sentiment datasets on the common date key</li>
 </ul>
 
-<h3>Analysis (Phase 4)</h3>
+<h3>Analysis </h3>
 <ul>
   <li>Grouped merged data by sentiment classification (Fear / Greed)</li>
   <li>Calculated average profit, average leverage, and average trade size per sentiment</li>
