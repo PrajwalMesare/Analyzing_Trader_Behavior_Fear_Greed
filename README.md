@@ -103,4 +103,4 @@ Analyzing_Trader_Behavior_Fear_Greed/
 <hr>
 
 <h2>Author</h2>
-<p><strong>Prajwal Mesare</strong><br>Data Science Intern</p>
+<p><strong>Prajwal Mesare</strong>
